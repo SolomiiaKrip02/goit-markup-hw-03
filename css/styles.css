@@ -145,10 +145,21 @@ img {
 }
 
 .feature {
-    padding-top: 138px;
+    padding-top: 120px;
     padding-bottom: 120px;
 }
 
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+    white-space: nowrap;
+}
 
 .feauter-menu {
     display: flex;
