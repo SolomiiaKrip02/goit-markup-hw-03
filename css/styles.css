@@ -6,6 +6,8 @@ body {
 
 ul {
     list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
 a {
@@ -14,6 +16,17 @@ a {
 
 button {
     cursor: pointer;
+}
+
+p,h1,h2,h3,h4,h5,h6 {
+    margin: 0;
+}
+
+.container {
+    width: 1128px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
 }
 
 .header-logo {
