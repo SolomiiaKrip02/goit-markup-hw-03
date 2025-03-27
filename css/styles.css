@@ -149,6 +149,9 @@ img {
     padding-bottom: 120px;
 }
 
+.visually-hidden {
+    
+}
 .feature-menu {
     display: flex;
     gap: 24px;
