@@ -161,12 +161,9 @@ img {
     white-space: nowrap;
 }
 
-.feauter-menu {
+.feature-item {
     display: flex;
     gap: 24px;
-}
-
-.feature-item {
     width: calc((100% - 72px) / 4);
 }
 .feature-sublitle {
