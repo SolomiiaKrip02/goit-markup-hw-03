@@ -87,11 +87,6 @@ img {
     color: #404bbf;
 }
 
-.address {
-    font-style: normal;
-    display: flex;
-    gap: 40px;
-}
 .information {
     font-style: normal;
     display: flex;
