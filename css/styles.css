@@ -166,6 +166,8 @@ img {
 
 .feature-item {
     width: calc((100% - 72px) / 4);
+    display: flex;
+    gap: 24px;
 }
 .feature-sublitle {
     font-weight: 500;
