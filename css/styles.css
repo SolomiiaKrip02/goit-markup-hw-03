@@ -86,6 +86,11 @@ img {
     color: #404bbf;
 }
 
+.information {
+    display: flex;
+    gap: 40px;
+}
+
 .information-link {
     font-weight: 400;
     font-size: 16px;
