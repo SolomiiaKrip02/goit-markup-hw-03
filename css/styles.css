@@ -230,6 +230,10 @@ img {
     border-radius: 0px 0px 4px 4px;
 }
 
+.team-information {
+    padding: 32px 0;
+    
+}
 
 .team-content {
     font-weight: 500;
