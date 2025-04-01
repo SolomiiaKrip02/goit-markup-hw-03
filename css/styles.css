@@ -223,6 +223,7 @@ img {
     display: flex;
     gap: 24px;
 }
+
 .team-card {
     background-color: #FFFFFF;
     width: calc((100% - 72px) / 4);
