@@ -65,10 +65,6 @@ img {
     color: #2e2f42;
 }
 
-.header-menu {
-    display: flex;
-    gap: 40px;
-}
 .header-menu-link a {
     font-weight: 500;
     font-size: 16px;
@@ -76,6 +72,8 @@ img {
     letter-spacing: 0.02em;
     color: #2e2f42 !important;
     padding: 24px 0;
+    display: flex;
+    gap: 40px;
 }
 
 .header-menu-link:hover a {
