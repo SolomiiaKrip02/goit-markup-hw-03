@@ -145,8 +145,6 @@ img {
     border: none;
     border-radius: 4px;
     cursor: pointer; 
-    margin-top: auto;
-    
 }
 
 .hero-btn:hover,
@@ -211,7 +209,6 @@ img {
     color: #2e2f42;
     text-transform: capitalize;
     margin-bottom: 72px;
-    margin-top: 124px;
 }
 
 .team-class {
@@ -271,16 +268,27 @@ img {
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
+
 }
 
 .portfolio-card {
     width: calc((100% - 48px) / 3);
+    margin-right: 48px;
+    
+}
+
+.portfolio-img {
+    width: 360px;
+    height: 300px;
+    margin-bottom: 8px;
 }
 
 .container-portfolio {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
+    width: 360px;
+    height: 120px;
 }
 
 .portfolio-content {
@@ -298,6 +306,8 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    display: flex;
+    align-items: flex-start;
 }
 
 .footer {
@@ -318,6 +328,7 @@ img {
     color: #4d5ae5;
     display: inline-block;
     margin-bottom: 16px;
+    gap: 0px;
 }
 
 .footer-logo-color {
@@ -331,6 +342,5 @@ img {
     letter-spacing: 0.02em;
     color: #f4f4fd;
     max-width: 246px;
-    margin-right: auto;
 
 }
