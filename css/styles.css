@@ -109,11 +109,8 @@ img {
     gap: 40px;
 }
 
-.information-link:hover {
-    color: #404bbf;
-}
-
-.information-link:focus {
+.information-link:hover,
+.information-link:focus a{
     color: #404bbf;
 }
 
@@ -148,12 +145,9 @@ img {
     cursor: pointer;
 }
 
-.hero-btn:hover {
+.hero-btn:hover,
+.hero-btn:focus{
     background-color: #404bbf;
-}
-
-.hero-btn:focus {
-    background-color: #404BBF;
 }
 
 .feature {
