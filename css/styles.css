@@ -364,6 +364,7 @@ img {
 
 .footer-logo-color {
     color: #f4f4fd;
+    display: inline-block;
 }
 
 .footer-text {
