@@ -35,7 +35,6 @@ img {
     padding-left: 15px;
     padding-right: 15px;
     margin: 0 auto;
-    display: flex;
 }
 
 .header {
@@ -340,11 +339,6 @@ img {
     padding-top: 100px;
     padding-bottom: 100px;
     align-items: center;
-}
-
-.container-five {
-    flex-direction: column;
-    
 }
 
 .footer-logo {
