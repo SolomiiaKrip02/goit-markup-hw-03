@@ -37,6 +37,9 @@ img {
     margin: 0 auto;
 }
 
+.container-one {
+    display: flex;
+}
 .header {
     display: flex;
     align-items: center;
