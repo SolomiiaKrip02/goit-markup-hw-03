@@ -206,8 +206,6 @@ img {
     padding-bottom: 120px;
 }
 
-.container-three {
-}
 .team-head {
     font-weight: 700;
     font-size: 36px;
@@ -261,9 +259,6 @@ img {
     padding-bottom: 120px;
 }
 
-.container-four {
-}
-
 .portfolio-head {
     font-weight: 700;
     font-size: 36px;
@@ -285,9 +280,6 @@ img {
 
 .portfolio-card {
     width: calc((100% - 48px) / 3);
-}
-
-.portfolio-img {
 }
 
 .container-portfolio {
