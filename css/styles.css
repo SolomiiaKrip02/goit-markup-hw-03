@@ -80,8 +80,7 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42 ;
-    display: flex;
-    gap: 40px;
+    display: block;
 }
 
 .header-class {
@@ -126,8 +125,6 @@ img {
     display: flex;
     flex-direction: column; 
     align-items: center;
-    text-align: center;
-    margin-left: 300px;
 }
 .title-hero {
     font-size: 56px;
@@ -210,9 +207,6 @@ img {
 }
 
 .container-three {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 .team-head {
     font-weight: 700;
@@ -223,7 +217,6 @@ img {
     color: #2e2f42;
     text-transform: capitalize;
     margin-bottom: 72px;
-    display: flex;
 }
 
 .team-class {
@@ -269,9 +262,6 @@ img {
 }
 
 .container-four {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .portfolio-head {
@@ -295,26 +285,15 @@ img {
 
 .portfolio-card {
     width: calc((100% - 48px) / 3);
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .portfolio-img {
-    width: 360px;
-    height: 300px;
-    margin-bottom: 8px;
 }
 
 .container-portfolio {
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     border-top: none;
-    width: 360px;
-    height: 120px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
 .portfolio-content {
@@ -332,8 +311,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
-    display: flex;
-    align-items: flex-start;
 
 }
 
@@ -366,6 +343,6 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
-    max-width: 246px;
+    max-width: 264px;
 
 }
